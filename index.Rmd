@@ -2,7 +2,7 @@
 title: "Statistical exercises for students at UWS"
 output_dir: "docs"  
 output:
-  html_document:
+  bookdown::html_document:
     toc: false
     toc_float: false
     theme: flatly

@@ -7,5 +7,5 @@
 "0","cat(""What is a p-value?"", longmcq(opts))"
 "1","What is a p-value?"
 "1"," "
-"1","<div class='webex-radiogroup' id='radio_DUAZHNGVAX'><label><input type=""radio"" autocomplete=""off"" name=""radio_DUAZHNGVAX"" value=""""></input> <span>the probability that the null hypothesis is true</span></label><label><input type=""radio"" autocomplete=""off"" name=""radio_DUAZHNGVAX"" value=""answer""></input> <span>the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true</span></label><label><input type=""radio"" autocomplete=""off"" name=""radio_DUAZHNGVAX"" value=""""></input> <span>the probability of making an error in your conclusion</span></label></div>
+"1","<div class='webex-radiogroup' id='radio_HEVATJEKPT'><label><input type=""radio"" autocomplete=""off"" name=""radio_HEVATJEKPT"" value=""""></input> <span>the probability that the null hypothesis is true</span></label><label><input type=""radio"" autocomplete=""off"" name=""radio_HEVATJEKPT"" value=""answer""></input> <span>the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true</span></label><label><input type=""radio"" autocomplete=""off"" name=""radio_HEVATJEKPT"" value=""""></input> <span>the probability of making an error in your conclusion</span></label></div>
 "

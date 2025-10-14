@@ -1,6 +1,7 @@
 title: "Statistical exercises for students at UWS"  
 author: "Luca Kozma"
 date: "`r Sys.Date()`"
+output_dir: "docs"
 output:
   html_document:
     theme: flatly

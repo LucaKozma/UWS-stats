@@ -1,2 +1,4 @@
 "0","knitr::opts_chunk$set(echo = FALSE)"
 "0","library(webexercises)"
+"2","G2;H2;Warningh: package ‘webexercises’ was built under R version 4.5.1g
+"

@@ -3,7 +3,7 @@
     "path": "~/GitHub/UWS-stats/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1185215103",
     "contents": "",
     "dirty": false,
     "created": 1760448079607.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,10",
+        "cursorPosition": "12,164",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760448524,
+    "lastKnownWriteTime": 1760450461,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760448524224,
+    "last_content_update": 1760450461566,
     "read_only": false,
     "read_only_alternatives": []
 }

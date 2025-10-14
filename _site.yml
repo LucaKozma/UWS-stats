@@ -13,6 +13,6 @@ navbar:
   - text: "Correlation"
     href: https://lucakozma.github.io/docs/01-corr.html
   - text: "Regression"
-    href: https://lucakozma.github.io/docs/linreg.html
+    href: https://lucakozma.github.io/docs/02-linreg.html
   - text: "ANOVA"
-    href: https://lucakozma.github.io/docs/ANOVA.html
+    href: https://lucakozma.github.io/docs/03-ANOVA.html

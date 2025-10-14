@@ -5,7 +5,7 @@ regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documen
 #rmarkdown::draft(my_rmd, "webexercises", "webexercises")
 
 # compile it
-rmarkdown::render(regr, webexercises::webexercises_default())
+rmarkdown::render(corr, webexercises::webexercises_default())
 
 # view the result
 browseURL(sub("\\.Rmd$", ".html", my_rmd))

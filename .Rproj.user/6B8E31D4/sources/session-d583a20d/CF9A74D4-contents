@@ -5,7 +5,9 @@ rmarkdown::render(corr, webexercises::webexercises_default(theme = "flatly"), ou
 regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/02-reg.Rmd"
 rmarkdown::render(regr, webexercises::webexercises_default(theme = "flatly"), output_dir = "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/docs")
 
-#rmarkdown::draft(my_rmd, "webexercises", "webexercises")
+
+# my_rmd <- tempfile(fileext = ".Rmd")
+# rmarkdown::draft(my_rmd, "webexercises", "webexercises")
 
 # view the result
-browseURL(sub("\\.Rmd$", ".html", my_rmd))
+# browseURL(sub("\\.Rmd$", ".html", regr))

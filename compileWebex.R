@@ -10,4 +10,4 @@ rmarkdown::render(regr, webexercises::webexercises_default(theme = "flatly"), ou
 # rmarkdown::draft(my_rmd, "webexercises", "webexercises")
 
 # view the result
-browseURL(sub("\\.Rmd$", ".html", regr))
+# browseURL(sub("\\.Rmd$", ".html", regr))

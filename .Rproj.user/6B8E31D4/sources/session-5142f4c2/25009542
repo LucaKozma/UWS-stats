@@ -1,0 +1,28 @@
+{
+    "id": "25009542",
+    "path": "~/GitHub/UWS-stats/01-corr.Rmd",
+    "project_path": "01-corr.Rmd",
+    "type": "r_markdown",
+    "hash": "3267956291",
+    "contents": "",
+    "dirty": false,
+    "created": 1760448564869.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0",
+        "last_setup_crc32": "5142f4c223147e7e"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1760448807,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1760448807164,
+    "read_only": false,
+    "read_only_alternatives": []
+}

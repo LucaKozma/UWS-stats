@@ -1,0 +1,11 @@
+---
+title: "Welcome to the 'Statistical exercises for students at UWS' main page!"
+output_dir: "docs"  
+output:
+  html_document:
+    toc: false
+    toc_float: false
+    theme: flatly
+---
+
+# Overview

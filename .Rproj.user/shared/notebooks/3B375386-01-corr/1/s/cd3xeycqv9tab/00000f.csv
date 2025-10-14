@@ -1,0 +1,5 @@
+"0","opts_p <- c("
+"0","   ""the probability that the null hypothesis is true"","
+"0","   answer = ""the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true"","
+"0","   ""the probability of making an error in your conclusion"""
+"0",")"

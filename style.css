@@ -1,0 +1,27 @@
+element.style{
+  .wp-block-image .alignright {
+    max-width: 50%;
+
+}
+
+@media screen and (max-width: 900px){
+  .wp-block-image .alignright{
+    float: none;
+    margin-left: unset;
+    margin-right: unset;
+    max-width: 100%
+
+  }
+
+}
+
+@media screen and (max-width: 900px){
+  .wp-block-image .alignright{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+}
+}

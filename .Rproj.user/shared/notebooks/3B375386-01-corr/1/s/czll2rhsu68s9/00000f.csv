@@ -1,0 +1,6 @@
+"0","# use sample() to randomise the order"
+"0","opts_ci <- sample(c("
+"0","  answer = ""if you repeated the process many times, 95% of intervals calculated in this way contain the true mean"","
+"0","  ""there is a 95% probability that the true mean lies within this range"","
+"0","  ""95% of the data fall within this range"""
+"0","))"

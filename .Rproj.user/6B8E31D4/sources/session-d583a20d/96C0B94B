@@ -1,9 +1,9 @@
 {
     "id": "96C0B94B",
-    "path": "~/GitHub/UWS-stats/02-linreg.Rmd",
-    "project_path": "02-linreg.Rmd",
+    "path": "~/GitHub/UWS-stats/02-reg.Rmd",
+    "project_path": "02-reg.Rmd",
     "type": "r_markdown",
-    "hash": "2934344868",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1760454002588.0,
@@ -18,11 +18,11 @@
         "last_setup_crc32": "d583a20d23147e7e"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760454116,
+    "lastKnownWriteTime": 1760454314,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760454116278,
+    "last_content_update": 1760454314,
     "read_only": false,
     "read_only_alternatives": []
 }

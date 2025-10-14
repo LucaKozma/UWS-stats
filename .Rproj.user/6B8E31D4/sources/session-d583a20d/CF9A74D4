@@ -1,7 +1,7 @@
 {
     "id": "CF9A74D4",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/UWS-stats/compileWebex.R",
+    "project_path": "compileWebex.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 8458358425442938469,
-    "encoding": "",
+    "lastKnownWriteTime": 1760454299,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760454264786,
+    "last_content_update": 1760454349384,
     "read_only": false,
     "read_only_alternatives": []
 }

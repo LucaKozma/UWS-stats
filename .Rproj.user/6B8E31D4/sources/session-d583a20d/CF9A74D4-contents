@@ -1,6 +1,6 @@
 corr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/01-corr.Rmd"
 
-regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/02-linreg.Rmd"
+regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/02-reg.Rmd"
 
 #rmarkdown::draft(my_rmd, "webexercises", "webexercises")
 

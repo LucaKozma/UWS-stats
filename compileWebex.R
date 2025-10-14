@@ -1,0 +1,11 @@
+corr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/01-corr.Rmd"
+
+regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/02-linreg.Rmd"
+
+#rmarkdown::draft(my_rmd, "webexercises", "webexercises")
+
+# compile it
+rmarkdown::render(regr, webexercises::webexercises_default())
+
+# view the result
+browseURL(sub("\\.Rmd$", ".html", my_rmd))

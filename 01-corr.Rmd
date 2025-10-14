@@ -1,8 +1,13 @@
 ---
 title: "Correlation"
 author: "Luca Kozma"
-date: "2025-10-14"
-output: html_document
+date: "`r Sys.Date()`"
+output_dir: "docs"  
+output:
+  html_document:
+    toc: false
+    toc_float: false
+    theme: flatly
 ---
 
 ```{r setup, include = FALSE}
@@ -122,8 +127,6 @@ If the solution is an RMarkdown code chunk, instead of using `hide()` and `unhid
 ```{r}
 with(cars, plot(speed, dist))
 ```
-
-
 `r hide("I need a hint")`
 
 See the documentation for `plot()` (`?plot`)

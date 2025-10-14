@@ -1,17 +1,18 @@
 title: "Statistical exercises for students at UWS"  
 author: "Luca Kozma"  
 output_dir: "docs"  
+date: "`r Sys.Date()`"
 output:
   html_document:
     theme: flatly
 navbar:
   left:
   - text: "Home"
-    href: https://lucakozma.github.io/UWS-stats
+    href: https://lucakozma.github.io/UWS-stats/
     icon: fa-house
   - text: "Correlation"
-    href: https://lucakozma.github.io/UWS-stats/01-corr.html
+    href: https://lucakozma.github.io/01-corr.html
   - text: "Regression"
-    href: https://lucakozma.github.io/UWS-stats/linreg.html
+    href: https://lucakozma.github.io/linreg.html
   - text: "ANOVA"
-    href: https://lucakozma.github.io/UWS-stats/ANOVA.html
+    href: https://lucakozma.github.io/ANOVA.html

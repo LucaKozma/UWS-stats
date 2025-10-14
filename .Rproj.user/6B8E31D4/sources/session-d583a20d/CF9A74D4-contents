@@ -1,11 +1,11 @@
 corr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/01-corr.Rmd"
+rmarkdown::render(corr, webexercises::webexercises_default())
+
 
 regr <- "C:/Users/77902038/OneDrive - University of the West of Scotland/Documents/GitHub/UWS-stats/02-reg.Rmd"
+rmarkdown::render(regr, webexercises::webexercises_default())
 
 #rmarkdown::draft(my_rmd, "webexercises", "webexercises")
-
-# compile it
-rmarkdown::render(corr, webexercises::webexercises_default())
 
 # view the result
 browseURL(sub("\\.Rmd$", ".html", my_rmd))

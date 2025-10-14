@@ -13,6 +13,6 @@ navbar:
   - text: "Correlation"
     href: https://lucakozma.github.io/UWS-stats/01-corr.html
   - text: "Regression"
-    href: https://lucakozma.github.io/UWS-stats/02-linreg.html
+    href: https://lucakozma.github.io/UWS-stats/02-reg.html
   - text: "ANOVA"
     href: https://lucakozma.github.io/UWS-stats/03-ANOVA.html

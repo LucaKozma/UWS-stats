@@ -11,8 +11,8 @@ navbar:
     href: https://lucakozma.github.io/UWS-stats/
     icon: fa-house
   - text: "Correlation"
-    href: https://lucakozma.github.io/01-corr.html
+    href: https://lucakozma.github.io/UWS-stats/01-corr.html
   - text: "Regression"
-    href: https://lucakozma.github.io/02-linreg.html
+    href: https://lucakozma.github.io/UWS-stats/02-linreg.html
   - text: "ANOVA"
-    href: https://lucakozma.github.io/03-ANOVA.html
+    href: https://lucakozma.github.io/UWS-stats/03-ANOVA.html

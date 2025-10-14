@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the 'Statistical exercises for students at UWS' main page!"
+title: "Statistical exercises for students at UWS"
 output_dir: "docs"  
 output:
   html_document:

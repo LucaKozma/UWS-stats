@@ -21,10 +21,29 @@ library(webexercises)
 #style_widgets(incorrect = "goldenrod", correct = "purple")
 ```
 
+<style>
+  .responsive-img {
+    float: right;
+    margin: 0px 0px 15px 15px;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-img {
+      float: none;
+      display: block;
+      margin: 0 auto 15px auto;
+    }
+  }
+</style>
+
+<img src="uws-logo.png" width="250" class="responsive-img">
+
+<br>
 
 [simple and multiple regression]
 
-## Multiple Choice (`mcq()`)
+<br>
 
-- "Never gonna give you up, never gonna: `r mcq(c("let you go", "turn you down", "run away", answer = "let you down"))`"
+## Multiple Choice 
+
 - "I `r mcq(c(answer = "bless the rains", "guess it rains", "sense the rain"))` down in Africa" -Toto

@@ -1,0 +1,49 @@
+---
+title: "ANOVA"
+author: "Luca Kozma"
+date: "`r Sys.Date()`"
+output_dir: "docs"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+```
+
+
+```{r, echo = FALSE, results='asis'}
+# Uncomment to change widget colours:
+#style_widgets(incorrect = "goldenrod", correct = "purple")
+```
+
+<style>
+  .responsive-img {
+    float: right;
+    margin: 0px 0px 15px 15px;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-img {
+      float: none;
+      display: block;
+      margin: 0 auto 15px auto;
+    }
+  }
+</style>
+
+<img src="uws-logo.png" width="250" class="responsive-img">
+
+<br>
+
+[simple and multiple regression]
+
+<br>
+
+## Multiple Choice 
+
+- "It’s gonna be `r mcq(c("May", answer = "me", "Mae", "great"))`" -*NSYNC

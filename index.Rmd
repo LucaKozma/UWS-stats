@@ -7,15 +7,43 @@ output:
     toc_float: true
     theme: flatly
 ---
+<style>
+  .responsive-img {
+    float: right;
+    margin: 0px 0px 15px 15px;
+  }
 
-# Overview
+  @media (max-width: 768px) {
+    .responsive-img {
+      float: none;
+      display: block;
+      margin: 0 auto 15px auto;
+    }
+  }
+</style>
+
+<img src="uws-logo.png" width="250" class="responsive-img">
+
+<br>
+
+## Overview
+
+<br> 
 
 This website is a collection of quizzes and exercises that you can use to revise the materials covered in your statistics classes (L7 Introduction to Psychology B, L8 Quantitative Research Skills, L9 Applying Psychology Methods, L11 Research Methods). 
 
-# How to use it?
+<br> 
+
+## How to use it?
+
+<br> 
 
 Each main statistical analysis has its own separate tab at the top of the page. When navigating there, you will see different types of questions: multiple choice, fill-in-the-blank, true or false. Select the correct answers for each question - you should get immediate feedback telling you whether your answer was correct or not.
 
-# Contact and support
+<br> 
+
+## Contact and support
+
+<br> 
 
 If you need more information on how to use this website, please, contact Luca Kozma at luca.kozma@uws.ac.uk.

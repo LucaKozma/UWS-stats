@@ -40,7 +40,7 @@ library(webexercises)
 
 <br>
 
-[simple and multiple regression]
+[one-way and factorial]
 
 <br>
 

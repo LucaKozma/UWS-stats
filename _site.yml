@@ -18,6 +18,6 @@ navbar:
     href: https://lucakozma.github.io/UWS-stats/03-ANOVA1.html
   - text: "Two-Way ANOVA"
     href: https://lucakozma.github.io/UWS-stats/04-ANOVA2.html
-  - text: "HELP"
-    href: <a href="mailto:luca.kozma@uws.ac.uk">
-    icon: fa-mail
+  - text: "Support"
+    href: mailto:luca.kozma@uws.ac.uk
+    icon: fa-solid fa-envelope

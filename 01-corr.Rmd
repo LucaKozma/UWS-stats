@@ -40,11 +40,11 @@ library(webexercises)
 
 <br>
 
-[correlation]
+#### If two variables are strongly correlated, we know one caused the other.
 
-<br>
+`r torf(FALSE)`
 
-## Multiple Choice
+#### Which scenario is more likely to result in a negative relationship? 
 
-- "Never gonna give you up, never gonna: `r mcq(c("let you go", "turn you down", "run away", answer = "let you down"))`"
+`r mcq(c("Ice cream sales and hot weather", answer = "Wool hat sales and hot weather", "Flip flop sales and hot weather ", "Suncream sales and hot weather"))`
 

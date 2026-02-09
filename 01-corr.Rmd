@@ -128,3 +128,6 @@ library(webexercises)
 
 `r mcq(c("the sample size is over 100", "the sample size is less than 50", "the variables are ordinal", answer = "the variables are continuous and normally distributed"))`
 
+<br><br>
+
+<a href=https://jasp-stats.org/wp-content/uploads/2020/03/Data_Library.gif>Where to find the Data Library in JASP</a>

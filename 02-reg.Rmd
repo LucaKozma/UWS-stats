@@ -40,10 +40,10 @@ library(webexercises)
 
 <br>
 
-[simple and multiple regression]
+#### 1. Durbin Watson
 
-<br>
+#### 2. Regression has two types of variables, ____ and ____.
 
-## Multiple Choice 
+#### 3. The beta (β) values in the results of a regression tell us the strength of contribution made by the predictor variables.
 
-- "I `r mcq(c(answer = "bless the rains", "guess it rains", "sense the rain"))` down in Africa" -Toto
+`r torf(TRUE)`

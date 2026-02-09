@@ -40,12 +40,10 @@ library(webexercises)
 
 <br>
 
-### 1.
+#### 1. If two variables are strongly correlated, we know one caused the other.
 
-If two variables are strongly correlated, we know one caused the other.`r torf(FALSE)`
+`r torf(FALSE)`
 
-### 2.
-
-Which scenario is more likely to result in a negative relationship? 
+#### 2. Which scenario is more likely to result in a negative relationship? 
 
 `r mcq(c("Ice cream sales and hot weather", answer = "Wool hat sales and hot weather", "Flip flop sales and hot weather ", "Suncream sales and hot weather"))`

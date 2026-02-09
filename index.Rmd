@@ -1,5 +1,6 @@
 ---
 title: "Statistical exercises for students at UWS"
+author: "Dr Luca Kozma and Ellie Rawding"
 output_dir: "docs"  
 output:
   bookdown::html_document:
@@ -30,7 +31,9 @@ output:
 
 <br> 
 
-This website is a collection of quizzes and exercises that you can use to revise the materials covered in your statistics classes (L7 Introduction to Psychology B, L8 Quantitative Research Skills, L9 Applying Psychology Methods, L11 Research Methods). 
+This website is a collection of quizzes and exercises that you can use to revise the materials covered in L9 Applying Psychology Methods.
+
+As this is a work in progress, we have started to populate the website with content from **L9 Applying Psychology Methods** - the hope is that we will expand this to include other modules, like L7 Introduction to Psychology B, L8 Quantitative Research Skills, L9 Applying Psychology Methods, and L11 Research Methods.
 
 <br> 
 
@@ -38,7 +41,7 @@ This website is a collection of quizzes and exercises that you can use to revise
 
 <br> 
 
-Each main statistical analysis has its own separate tab at the top of the page. When navigating there, you will see different types of questions: multiple choice, fill-in-the-blank, true or false. Select the correct answers for each question - you should get immediate feedback telling you whether your answer was correct or not.
+Each main statistical analysis has its own separate tab at the top of the page. When navigating there, you will see different types of questions: multiple choice, fill-in-the-blank, true or false. Select the correct answer for each question - you should get immediate feedback telling you whether your answer was correct or not. You can redo the questions if you wish.
 
 <br> 
 
@@ -46,4 +49,4 @@ Each main statistical analysis has its own separate tab at the top of the page. 
 
 <br> 
 
-If you need more information on how to use this website, please, contact Luca Kozma at luca.kozma@uws.ac.uk.
+If you need more information on how to use this website, please, contact Dr Luca Kozma at luca.kozma@uws.ac.uk.

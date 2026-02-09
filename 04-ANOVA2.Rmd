@@ -1,6 +1,6 @@
 ---
 title: "Two-Way ANOVA"
-author: "Luca Kozma"
+author: "Dr Luca Kozma and Ellie Rawding"
 date: "`r Sys.Date()`"
 output_dir: "docs"
 output:
@@ -40,7 +40,7 @@ library(webexercises)
 
 <br>
 
-[one-way and factorial]
+[factorial]
 
 <br>
 

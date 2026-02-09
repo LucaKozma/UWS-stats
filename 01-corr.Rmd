@@ -1,6 +1,6 @@
 ---
 title: "Correlation"
-author: "Luca Kozma"
+author: "Dr Luca Kozma and Ellie Rawding"
 date: "`r Sys.Date()`"
 output_dir: "docs"
 output:

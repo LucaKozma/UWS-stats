@@ -1,5 +1,5 @@
 title: "Statistical exercises for students at UWS"  
-author: "Luca Kozma and Ellie Rawding"
+author: "Dr Luca Kozma and Ellie Rawding"
 date: "`r Sys.Date()`"
 output_dir: "docs"
 output:

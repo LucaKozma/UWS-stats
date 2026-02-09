@@ -1,5 +1,5 @@
 ---
-title: "ANOVA"
+title: "One-Way ANOVA"
 author: "Luca Kozma"
 date: "`r Sys.Date()`"
 output_dir: "docs"

@@ -1,5 +1,5 @@
 title: "Statistical exercises for students at UWS"  
-author: "Luca Kozma"
+author: "Luca Kozma and Ellie Rawding"
 date: "`r Sys.Date()`"
 output_dir: "docs"
 output:
@@ -14,5 +14,7 @@ navbar:
     href: https://lucakozma.github.io/UWS-stats/01-corr.html
   - text: "Regression"
     href: https://lucakozma.github.io/UWS-stats/02-reg.html
-  - text: "ANOVA"
-    href: https://lucakozma.github.io/UWS-stats/03-ANOVA.html
+  - text: "One-Way ANOVA"
+    href: https://lucakozma.github.io/UWS-stats/03-ANOVA1.html
+  - text: "Two-Way ANOVA"
+    href: https://lucakozma.github.io/UWS-stats/04-ANOVA2.html    

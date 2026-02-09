@@ -44,6 +44,87 @@ library(webexercises)
 
 `r torf(FALSE)`
 
+<br>
+
 #### 2. Which scenario is more likely to result in a negative relationship? 
 
 `r mcq(c("Ice cream sales and hot weather", answer = "Wool hat sales and hot weather", "Flip flop sales and hot weather ", "Suncream sales and hot weather"))`
+
+<br>
+
+#### 3. What kind of graph can be used to visually check linearity?
+
+`r mcq(c("bar graph", "Q-Q plot", answer = "scatterplot", "histogram"))`
+
+<br>
+
+#### 4. A correlation co-efficient of –0.8 is an example of what kind of relationship? 
+
+`r mcq(c(answer = "strong negative", "strong positive", "weak positive", "weak negative"))`
+
+<br>
+
+#### 5. What does *r* in a correlation indicate? 
+
+`r mcq(c("the probability of error", "the difference between two groups", answer = "the strength and direction of the relationship", "whether it is a within- or between-groups design"))`
+
+<br>
+
+#### 6. Which kind of correlation is used for non-parametric analysis?
+
+`r mcq(c("Pearson's", answer = "Spearman's", "chi-square", "scatterplot"))`
+
+<br>
+
+#### 7. A positive correlation is always stronger than a negative correlation.
+
+`r torf(FALSE)`
+
+<br>
+
+#### 8. What type of graph is used to help visualise a correlation?
+
+`r mcq(c("bar chart", "pie chart", "flow chart", answer = "scatterplot"))`
+
+<br>
+
+#### 9. Which of the following would violate the assumptions of a Pearson's correlation?
+
+`r mcq(c("large sample size", "linearity", answer = "outliers", "uneven group sizes"))` 
+
+<br>
+
+#### 10. Pearsons’s correlation can only measure linear relationships.
+
+`r torf(TRUE)`
+
+<br>
+
+#### 11. Why do we use correlations before running a regression?
+
+`r mcq(c("to check for no multicollinearity", "to check whether a relationship between predictors and the outcome exists", "to check whether the relationship is linear, based on the scatterplot", answer = "all of the above"))`
+
+<br>
+
+#### 12. Go to JASP Data Library, open the dataset of Album sales, open the correlation section of the regression and look at the Pearson’s correlation. Here we see **sales** and **adverts** have the strongest correlation.
+
+`r torf(FALSE)`
+
+<br>
+
+#### 13. In the same Album sales correlation table, which is the weakest correlation? 
+
+`r mcq(c("Sales and Adverts", "Sales and Airplay", answer = "Adverts and Airplay","Airplay and Attractiveness"))`
+
+<br>
+
+#### 14. When r = -.60, the relationship is...
+
+`r mcq(c("Strong positive", answer = "Strong negative", "Non-existent", "Weak and negative"))`
+
+<br>
+
+#### 15. Pearson's *r* is used when
+
+`r mcq(c("the sample size is over 100", "the sample size is less than 50", "the variables are ordinal", answer = "the variables are continuous and normally distributed"))`
+
